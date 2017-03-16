@@ -10,6 +10,7 @@ public class Papildoma {
     private Connection connection;
     Scanner sc = new Scanner(System.in);
 
+
 //asfkaksdlf
     public Papildoma() {
         try {
